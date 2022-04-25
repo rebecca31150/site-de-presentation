@@ -9,5 +9,26 @@ header{
     color: fuchsia;
     font-family: 'Dancing Script', cursive;
     text-align: center;
-    margin-top: 90%;
+}
+header h1{
+    font-size: 80px;
+    letter-spacing: 7px;
+    text-shadow: 2px 2px 5px black;
+}
+header h2{
+    font-size: 65px;
+    letter-spacing: 5px;
+}
+nav{
+    height: 22px;
+    background-color: rgba(255, 105, 180, 0.401);
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    padding : 2px 125px 0 0;
+}
+nav a{
+    text-decoration: none;
+    background-color: rgba(137, 43, 226, 0.244);
 }
