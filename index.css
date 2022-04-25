@@ -20,11 +20,11 @@ header h2{
     letter-spacing: 5px;
 }
 nav{
-    height: 30px;
+    height: 25px;
     background-color: rgba(255, 105, 180, 0.401);
     text-align: center;
-    box-shadow: 1px 1px 3px black;
-    margin-block-start: 7px;
+    box-shadow: 1px 1px 1px black;
+    margin-block-start: 5px;
     
 }
 nav li{
@@ -34,7 +34,8 @@ nav li{
 nav a{
     text-decoration: none;
     background-color: rgba(137, 43, 226, 0.244);
-    padding: 5px;
+    padding: 2px;
     border-radius: 5px;
     box-shadow: 2px 1px 3px black;
+    
 }
